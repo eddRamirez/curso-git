@@ -1,4 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 body {
   background: #efefe7;
-  color: #eee;
+  color: #4e443c;
+  font-family: Glory;
+  display: flex;
+  align-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+h1 {
+  color: #0388a6;
+  margin: 20px;
+  font-weight: 600;
+}
+
+p {
+  margin: 20px;
+  font-weight: 600;
+}
+
+img {
+  width: auto;
+  height: 200px;
+}
+
+span {
+  background-color: #f05033;
+  color: #ffffff;
+  padding: 10px 10px;
+  border-radius: 5px;
 }
