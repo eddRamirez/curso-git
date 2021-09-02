@@ -36,3 +36,17 @@ span {
   border-radius: 5px;
   margin-bottom: 20px;
 }
+
+a {
+  text-decoration: none;
+  padding: 10px 10px;
+  font-weight: 400;
+}
+
+a:hover {
+  background-color: #3d2d00;
+  color: #ffffff;
+  padding: 10px 10px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
