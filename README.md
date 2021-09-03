@@ -14,3 +14,7 @@ En este curso aprenderé:
 
 - Ahora tenemos 2 ramas en el proyecto
 - Ya sabemos ejecutar los comandos para administrar las ramas
+<<<<<<< HEAD
+=======
+- Resolviendo conflictos en Git
+>>>>>>> dev
