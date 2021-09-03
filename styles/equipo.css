@@ -32,7 +32,7 @@ body {
 }
 
 h1 {
-  margin: 40px 40px;
+  margin: 20px 40px 40px;
   background: #71cfe1;
   padding: 10px 20px;
   border: solid 1px #25b6d2;
@@ -50,6 +50,7 @@ img {
   flex: 0 0 50%;
   height: 400px;
   padding: 0%;
+  margin-bottom: -80px;
 }
 
 a {
@@ -66,4 +67,32 @@ a:hover {
   padding: 10px 10px;
   border-radius: 5px;
   margin-bottom: 20px;
+}
+
+footer {
+  background: #212529;
+  width: 111.2%;
+  height: 200px;
+  display: flex;
+  align-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+.master {
+  margin: auto;
+}
+
+.master a {
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 2rem;
+  padding: 40px 40px;
+  margin: 20px 40px;
+}
+
+.master a:hover {
+  background-color: #25b6d2;
+  border-color: solid #fff 2px;
+  border-radius: 50%;
 }
