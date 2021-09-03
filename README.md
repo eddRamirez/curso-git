@@ -7,4 +7,10 @@ En este curso aprenderé:
 - Creación de un repositorio
 - Comandos básicos
 - Trabajo colaborativo
+- Trabajo con ramas remotas
 - ... y mucho más
+
+# Rama development
+
+- Ahora tenemos 2 ramas en el proyecto
+- Ya sabemos ejecutar los comandos para administrar las remas
