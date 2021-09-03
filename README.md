@@ -13,4 +13,7 @@ En este curso aprenderé:
 # Rama development
 
 - Ahora tenemos 2 ramas en el proyecto
+<<<<<<< HEAD
 - Ya sabemos ejecutar los comandos para administrar las remas
+=======
+>>>>>>> development

@@ -6,6 +6,7 @@ html {
 *:before,
 *:after {
   box-sizing: inherit;
+<<<<<<< HEAD
   margin: 0;
   padding: 0;
 }
@@ -29,11 +30,23 @@ h1 {
 p {
   margin: 20px;
   font-weight: 600;
+=======
+}
+
+body {
+  background: #f1f1e9;
+  color: #4e443c;
+}
+
+h2 {
+  color: #f14e32;
+>>>>>>> development
 }
 
 img {
   width: auto;
   height: 200px;
+<<<<<<< HEAD
 }
 
 span {
@@ -85,4 +98,6 @@ footer {
   background-color: #f05033;
   border-color: solid #fff 2px;
   border-radius: 50%;
+=======
+>>>>>>> development
 }
