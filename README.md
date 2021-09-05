@@ -15,3 +15,10 @@ En este curso aprenderé:
 - Ahora tenemos 2 ramas en el proyecto
 - Ya sabemos ejecutar los comandos para administrar las ramas
 - Resolviendo conflictos en Git
+
+# Manejo de ramas remotas
+
+- Creación de un nuevo repositorio en GitHub
+- Clonar repositorio de GitHub por (HTTPS) y (SHH)
+- Creación de una (SHH Key) para poder clonar y subir repositorios usando este metodo
+- Subiendo un repositorio local de Git hacia el repositorio remoto de GitHub
