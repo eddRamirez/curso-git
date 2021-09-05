@@ -22,3 +22,4 @@ En este curso aprenderé:
 - Clonar repositorio de GitHub por (HTTPS) y (SHH)
 - Creación de una (SHH Key) para poder clonar y subir repositorios usando este metodo
 - Subiendo un repositorio local de Git hacia el repositorio remoto de GitHub
+- Modificación de archivos desde GitHub y ver los cambios en Git local 
