@@ -22,8 +22,12 @@ body {
 
 h1 {
   color: #0388a6;
+  background: #4dff47;
   margin: 20px;
   font-weight: 600;
+  padding: 10px 20px;
+  border: solid 1px #0388a6;
+  border-radius: 5px;
 }
 
 p {
